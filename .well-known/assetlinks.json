@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.suphakrit.applinks",
+      "sha256_cert_fingerprints": [
+        "28:D9:0B:7C:E9:91:0B:6C:6E:67:1A:42:99:03:47:6B:37:30:31:0E:D6:9E:3C:7E:48:A0:F2:38:4E:FE:83:AB"
+      ]
+    }
+  }
+]
